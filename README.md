@@ -23,10 +23,6 @@ PyBlog is a modern and beginner-friendly Python blog website built using HTML an
 
 The main goal of this project is to provide a simple platform where beginners can learn Python programming in an easy and organized way.
 
-## 📸 Preview
-
-![PyBlog Logo](logo.png)
-
 ## 📂 Project Structure
 
 PyBlog/
