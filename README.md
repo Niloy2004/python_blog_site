@@ -204,10 +204,6 @@ GitHub
 
 https://github.com/Niloy2004
 
-Portfolio
-
-https://python-blog-site-gilt.vercel.app/
-
 ---
 
 <div align="center">
