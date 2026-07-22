@@ -85,28 +85,6 @@ PYTHON BLOG
 └── README.md
 ```
 
----
-
-# 📸 Screenshots
-
-## 🏠 Home Page
-
-> Add Screenshot Here
-
----
-
-## 👨 About Page
-
-> Add Screenshot Here
-
----
-
-## 📱 Mobile Responsive
-
-> Add Screenshot Here
-
----
-
 # 🚀 Getting Started
 
 Clone the repository
